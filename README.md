@@ -105,8 +105,8 @@ elixir --version
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Yuurisan-N1/ORAC-Miniapp.git
-cd ORAC-Miniapp
+git clone https://github.com/Yuurisan-N1/Orac-Miniapp.git
+cd Orac-Miniapp
 ```
 
 **Install dependencies:**
